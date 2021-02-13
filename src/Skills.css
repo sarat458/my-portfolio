@@ -1,0 +1,11 @@
+#skills {
+  height: auto;
+  width: auto;
+
+  margin-bottom: 20px;
+}
+
+#skills .row {
+  height: auto;
+  background: #fff;
+}

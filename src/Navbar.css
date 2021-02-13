@@ -1,0 +1,22 @@
+.navbar {
+  height: 50px;
+  background-color: white;
+  border-bottom: 10px solid whitesmoke;
+}
+
+.navbar .navbar-brand {
+  color: white;
+  font-size: larger;
+  font-weight: bolder;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.navbar .nav-link {
+  color: rgb(214, 197, 197);
+  font-size: larger;
+}
+
+/* .navbar .nav-item.active {
+  border-left: #fff 2px solid;
+} */

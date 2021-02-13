@@ -1,0 +1,21 @@
+.home {
+  position: relative;
+
+  height: auto;
+  color: coral;
+}
+
+.home .text-center img {
+  margin-top: 50px;
+  height: 300px;
+  width: 300px;
+  cursor: pointer;
+}
+
+.home .text-center img:hover {
+  box-shadow: 2px 2px 2px 2px gray;
+}
+
+.home .size {
+  font-size: 50px;
+}

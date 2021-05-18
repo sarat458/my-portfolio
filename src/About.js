@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <section id='about' class=' about py-5 text-center bg-light'>
+    <section id='about' class=' about py-3 text-center bg-light'>
       <div class='container'>
         <div class='row'>
           <div class='col'>
@@ -12,11 +12,12 @@ function About() {
               </h1>
               <hr />
               <p class='lead pb-3 text-muted'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
-                placeat porro sit illum amet dolorum atque magnam. Soluta
-                commodi sunt quae consequuntur quasi? Provident repudiandae sunt
-                iure quaerat deleniti cumque iusto explicabo magnam enim, a
-                nihil quo distinctio deserunt cum!
+                I’m a software engineer with over 4 years of work-experience in web-development,
+                automations and production support. I did my under-graduation in Electronics and communication
+                engineering and post my bachelors’ study I switched my interest towards the computer
+                science field and wanted to pursue a masters degree in Computer Science. My interest towards computer
+                science began during the internship stint at DRDL where i worked as Matlab GUI developer. To align with rigorous coursework during Masters, I have been working on improving my problem-solving skills, data structures &amp; algorithms,
+                Fundamentals of Database Management Systems, Operating Systems and Software architecture &amp; design.
               </p>
             </div>
           </div>

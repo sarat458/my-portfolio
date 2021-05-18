@@ -11,7 +11,7 @@ function Home({ org, role }) {
           <div className='col-md-5  p-5 '>
             <div class='text-center'>
               <img
-                src='https://lh3.googleusercontent.com/-AXN4uNGiw9vG7OYrkRHCnpgJNmhhlB8yiWFQyjSDZjKwRbt3EDqsJcGrLRFRX5HwesAI1SEjVtGedjHrZcYqsof-gx8SxA1sggW3LfBg-MZxrX0c8l1YENgNapFJgUQGvdA351mv5spOk-83qy7epkBYFZHEzCe0fyco-vRI29SJDuU3QzuI5ZDA-VYeXrJkwzUap_ae7gotVsRYjeiP-GE39TixofsyKQk5LDkE9z2eCarT4PD3skor7Awu1c0Mwzs6Nbqyqx4O-i1k_HyJhcLL4pB8m-R30pUuQHb_oD7W_bngnnKNby6Mm-N92IZ88RiM0R8o_rdEge4rJf-2bT6QpLuAOz4_2Sbw2ENgjDVn3Y99653xf5wY6f5RSlo0Nk_w5yo58wc8ofUjxrvS4WeohFODPtaBr86slPOCxR8VMXZTXNyovx1IM7YoSo1pCM2B86Z3Q6wWaB87mDz754hSNhF9f299iFy8F0cCIDPBvshNnecs1OIhCidljpbexJSE2wU8o2Wua0mD3_l2V8q12ggUu440p9volS07oGKKzMn9v2P_hNT8HtvRC3Nm3GNBgDrH_thRF3KJJIklzi-NpoEL7roEzRVk7ot33kFXi3yJwqxhBkKhKxmjjeDkeq7n8GLDJ27Y6NUl01V9iEfZv_fjRIQT8aSStVDRVXmkvR8vWxLf3XzWJsbxA=w768-h954-no?authuser=0'
+                src='photo.jpg'
                 class='img-thumbnail my-auto'
                 alt='{Profile Picture}'
               />
@@ -30,20 +30,12 @@ function Home({ org, role }) {
             </div>
           </div>
           <div className='col-md-7 justify-content-center '>
-            <h1 className='  p-5' style={{ color: 'gray', fontSize: '50px' }}>
-              Hello !!!
+            <h1 className='  p-4' style={{ color: 'gray', fontSize: '60px' }}>
               <br />
-              Welcome to my Portfolio Website
+              <div className="mx-3">Welcome to my Portfolio Website</div>
               <hr />
-              <p style={{ fontSize: '15px', fontStyle: 'italic' }}>
-                I'm Working as a {role} in {org} <br />
-                <br />
-                <br />
-                <p className='text-muted'>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Culpa deleniti suscipit, ea impedit reiciendis repellendus
-                  labore quia dicta similique sequi.
-                </p>
+              <p style={{ fontSize: '20px', fontStyle: 'italic' }}>
+                {role},{org} <br />
               </p>
             </h1>
           </div>

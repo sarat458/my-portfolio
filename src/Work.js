@@ -24,36 +24,31 @@ function Work() {
               </h2>
             </div>
             <div className='row'>
+              <b className='lead text-left mb-3'>Dot Net Developer</b>
+              <p className='lead text-left mb-5'>
+                • Developed an Online Flight management system using ASP.net framework and MySQL as backend database. Functionalities include user authentication and CRUD operations on the database. <br />
+                • This project is mainly about designing a web application online flight management system. It is used to create, edit, and delete the flight schedule and redeem bonus miles master. We can also view the flight details. <br />
+                • Worked as a backend engineer in developing RESTFUL API services to connect to backend servers to fetch the user data and perform CRUD operations.
+              </p>
+            </div>
+            <div className='row'>
               <strong className='lead text-left mb-3'>
-                TOSCA Automation Developer
+                Automations and Monitoring
               </strong>
               <p className='lead text-left mb-5'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime
-                corporis animi dignissimos recusandae dolor tempora veniam natus
-                praesentium, maiores quidem blanditiis incidunt velit provident
-                nobis sapiente commodi, eius, iusto illo?
+                • Developed Splunk dashboards for critical German applications involving invoices transfer. These dashboards help clients proactively monitor the invoice failure and take quick action. <br />
+                • Developed various automation scripts using the TOSCA tool to save manual efforts for SAP and non-SAP applications.
               </p>
             </div>
 
             <div className='row'>
               <strong className='lead text-left mb-3'>EDI Consultant</strong>
               <p className='lead text-left mb-5'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime
-                corporis animi dignissimos recusandae dolor tempora veniam natus
-                praesentium, maiores quidem blanditiis incidunt velit provident
-                nobis sapiente commodi, eius, iusto illo?
+                •Worked as an E.D.I. analyst for German clients implementing B2B solutions for C.P.G. customer MARS using OpenText/G.X.S. and BAI tools.
               </p>
             </div>
 
-            <div className='row'>
-              <strong className='lead text-left mb-3'>Dot Net Developer</strong>
-              <p className='lead text-left mb-5'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime
-                corporis animi dignissimos recusandae dolor tempora veniam natus
-                praesentium, maiores quidem blanditiis incidunt velit provident
-                nobis sapiente commodi, eius, iusto illo?
-              </p>
-            </div>
+
           </div>
         </div>
       </div>

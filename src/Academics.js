@@ -27,32 +27,8 @@ function Academics() {
               Under Graduation
             </a>
           </li>
-          <li class='nav-item'>
-            <a
-              class='nav-link'
-              id='profile-tab'
-              data-toggle='tab'
-              href='#profile'
-              role='tab'
-              aria-controls='profile'
-              aria-selected='false'
-            >
-              High School
-            </a>
-          </li>
-          <li class='nav-item'>
-            <a
-              class='nav-link'
-              id='contact-tab'
-              data-toggle='tab'
-              href='#contact'
-              role='tab'
-              aria-controls='contact'
-              aria-selected='false'
-            >
-              School
-            </a>
-          </li>
+
+
         </ul>
         <div class='tab-content' id='myTabContent'>
           <div
@@ -64,32 +40,14 @@ function Academics() {
             <div className='container '>
               <div className='row'>
                 <p className='lead display-block py-2'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-                  vitae quos enim ad quasi molestias officiis quam ducimus totam
-                  aspernatur tempore voluptate odio voluptas hic deserunt sit
-                  eum, adipisci ab. Quod voluptatum aut nostrum animi saepe
-                  quasi cumque quibusdam accusantium eligendi? Aperiam,
-                  veritatis voluptate quod quo aliquam dolore suscipit
-                  voluptatem ex minima non ipsa eius maxime velit totam eligendi
-                  laborum obcaecati veniam perspiciatis nisi ad nesciunt ipsum
-                  reiciendis similique id! Ipsa reprehenderit sint natus!
-                  Officia, aut. Placeat cum impedit quae at vel ipsam, dolores
-                  sequi doloribus laudantium quam eos id magnam eius veniam
-                  reprehenderit fugit perferendis voluptatum eaque est incidunt
-                  mollitia. Odit aspernatur quae ex, error tenetur officiis
-                  ipsum dolorem vitae repudiandae sit eveniet eos expedita
-                  nihil, atque possimus, dolore sapiente eum nam ipsa?
-                  Temporibus ipsa veritatis explicabo laboriosam, recusandae
-                  repellendus expedita tempora rem fuga? Doloremque quo ullam
-                  tempore quisquam! Tempora in pariatur excepturi dolores ut
-                  sapiente deleniti? Earum quo ut beatae, doloremque autem
-                  voluptas aliquam natus quam nemo pariatur laboriosam saepe
-                  obcaecati neque numquam alias aspernatur nam harum vel quia!
-                  Amet repudiandae dolorem quaerat aut numquam eveniet
-                  recusandae at quia adipisci eum. Maiores nesciunt sapiente,
-                  corporis consequatur aliquid ipsam repudiandae possimus
-                  dignissimos totam voluptate! Itaque pariatur eius earum
-                  tenetur!
+                  • Submitted a Term Paper report on “TIME-FREQUENCY ANALYSIS AS PROBABILISTIC
+                  INFERENCE” in 6th semester. <br />
+                  • Designed a “SUPER SENSITIVE INTRUDER ALARM” for security purpose, in 3rd year for Model
+                  Exhibition conducted in Department of E.C.E., G.M.R.I.T. <br />
+                  • Designed a “POLE CLIMBING ROBOT FOR SURVEILLANCE APPLICATION WITH VOICE
+                  AND IMAGE RECORDING” as part of Mini Project. <br />
+                  • For Final project we worked on “PERFORMANCE EVALUATION OF COMPLEMENTARY
+                  CODES IN DOPPLER DOMAIN.”
                 </p>
               </div>
             </div>
@@ -103,32 +61,15 @@ function Academics() {
             <div className='container '>
               <div className='row'>
                 <p className='lead display-block  py-2'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-                  vitae quos enim ad quasi molestias officiis quam ducimus totam
-                  aspernatur tempore voluptate odio voluptas hic deserunt sit
-                  eum, adipisci ab. Quod voluptatum aut nostrum animi saepe
-                  quasi cumque quibusdam accusantium eligendi? Aperiam,
-                  veritatis voluptate quod quo aliquam dolore suscipit
-                  voluptatem ex minima non ipsa eius maxime velit totam eligendi
-                  laborum obcaecati veniam perspiciatis nisi ad nesciunt ipsum
-                  reiciendis similique id! Ipsa reprehenderit sint natus!
-                  Officia, aut. Placeat cum impedit quae at vel ipsam, dolores
-                  sequi doloribus laudantium quam eos id magnam eius veniam
-                  reprehenderit fugit perferendis voluptatum eaque est incidunt
-                  mollitia. Odit aspernatur quae ex, error tenetur officiis
-                  ipsum dolorem vitae repudiandae sit eveniet eos expedita
-                  nihil, atque possimus, dolore sapiente eum nam ipsa?
-                  Temporibus ipsa veritatis explicabo laboriosam, recusandae
-                  repellendus expedita tempora rem fuga? Doloremque quo ullam
-                  tempore quisquam! Tempora in pariatur excepturi dolores ut
-                  sapiente deleniti? Earum quo ut beatae, doloremque autem
-                  voluptas aliquam natus quam nemo pariatur laboriosam saepe
-                  obcaecati neque numquam alias aspernatur nam harum vel quia!
-                  Amet repudiandae dolorem quaerat aut numquam eveniet
-                  recusandae at quia adipisci eum. Maiores nesciunt sapiente,
-                  corporis consequatur aliquid ipsam repudiandae possimus
-                  dignissimos totam voluptate! Itaque pariatur eius earum
-                  tenetur!
+                  • Team Leader for the projects in our academic curriculum. <br />
+                  • Acted as a Resource Person for National level workshop conducted on “M.A.T.L.A.B.” at our college
+                  fest STEPCONE 2015. <br />
+                  • Presented a Technical Paper on “VIDEO WATERMARKING FOR PIRATE DETECTION” in,
+                  IIT BHUBHANESWAR. <br />
+                  • Presented a Technical Paper on “MOBILE JAMMERS” in STEPCONE 2015, G.M.R.I.T. <br />
+                  • Presented a Technical Paper on “BRAIN COMPUTER INTERFACE” in, J.N.T.U., Kakinada and
+                  G.I.T.A.M. University, Visakhapatnam. <br />
+                  • Active Member in technical bodies like I.S.T.E, I.E.T.E and I.E. <br />
                 </p>
               </div>
             </div>
@@ -140,36 +81,7 @@ function Academics() {
             aria-labelledby='contact-tab'
           >
             <div className='container '>
-              <div className='row'>
-                <p className='lead display-block  py-2'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-                  vitae quos enim ad quasi molestias officiis quam ducimus totam
-                  aspernatur tempore voluptate odio voluptas hic deserunt sit
-                  eum, adipisci ab. Quod voluptatum aut nostrum animi saepe
-                  quasi cumque quibusdam accusantium eligendi? Aperiam,
-                  veritatis voluptate quod quo aliquam dolore suscipit
-                  voluptatem ex minima non ipsa eius maxime velit totam eligendi
-                  laborum obcaecati veniam perspiciatis nisi ad nesciunt ipsum
-                  reiciendis similique id! Ipsa reprehenderit sint natus!
-                  Officia, aut. Placeat cum impedit quae at vel ipsam, dolores
-                  sequi doloribus laudantium quam eos id magnam eius veniam
-                  reprehenderit fugit perferendis voluptatum eaque est incidunt
-                  mollitia. Odit aspernatur quae ex, error tenetur officiis
-                  ipsum dolorem vitae repudiandae sit eveniet eos expedita
-                  nihil, atque possimus, dolore sapiente eum nam ipsa?
-                  Temporibus ipsa veritatis explicabo laboriosam, recusandae
-                  repellendus expedita tempora rem fuga? Doloremque quo ullam
-                  tempore quisquam! Tempora in pariatur excepturi dolores ut
-                  sapiente deleniti? Earum quo ut beatae, doloremque autem
-                  voluptas aliquam natus quam nemo pariatur laboriosam saepe
-                  obcaecati neque numquam alias aspernatur nam harum vel quia!
-                  Amet repudiandae dolorem quaerat aut numquam eveniet
-                  recusandae at quia adipisci eum. Maiores nesciunt sapiente,
-                  corporis consequatur aliquid ipsam repudiandae possimus
-                  dignissimos totam voluptate! Itaque pariatur eius earum
-                  tenetur!
-                </p>
-              </div>
+
             </div>
           </div>
         </div>

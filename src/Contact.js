@@ -20,7 +20,7 @@ function Contact({ social_icons_size }) {
           <div className='row text-center'>
             <div className='col-md-4'>
               <a
-                href='https://www.linkedin.com'
+                href='https://www.linkedin.com/in/sarat-kumar-kaniti-34437197/'
                 className='nav-link'
                 target='_blank'
                 rel="noreferrer"
@@ -33,7 +33,7 @@ function Contact({ social_icons_size }) {
             </div>
             <div className='col-md-4'>
               <a
-                href='https://www.facebook.com'
+
                 className='nav-link'
                 target='_blank'
                 rel="noreferrer"
@@ -46,7 +46,7 @@ function Contact({ social_icons_size }) {
             </div>
             <div className='col-md-4'>
               <a
-                href='https://www.github.com'
+                href='https://www.github.com/sarat458'
                 className='nav-link'
                 target='_blank'
                 rel="noreferrer"
